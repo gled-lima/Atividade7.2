@@ -1,4 +1,5 @@
-#Questão: Criar uma estrutura com coordenadas x e y, ler dois pontos e calcular a distância entre eles.
+# L1. Distância entre dois pontos.
+# Criar uma estrutura com coordenadas x e y, ler dois pontos e calcular a distância entre eles.
 
 #include <stdio.h>
 #include <math.h>
